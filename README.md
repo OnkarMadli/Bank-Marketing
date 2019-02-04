@@ -64,5 +64,4 @@ This dataset was taken from a Portuguese banking institution. The data is relate
 1. Logistic Regression
 2. Support Vector Machine
 3. Decision Tree Classifier
-4. Random Forest Classifier
-5. Neural Network
+4. Neural Network
