@@ -14,7 +14,7 @@ You will also need to have software installed to run and execute a [Jupyter Note
 If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included.
 
 ### Code
-Template code is provided in the `Bank-Marketing.ipynb` notebook file. You will also be requires to use the included dataset file `bank-additional.csv`.
+Template code is provided in the `Bank-Marketing.ipynb` notebook file. You will also be requires to use the included dataset file `bank-additional-full.csv`.
 
 ### Run
 In a terminal or command window, navigate to the top-level project directory and run one of the following commands:
@@ -60,6 +60,7 @@ This dataset was taken from a Portuguese banking institution. The data is relate
 
 ### Output variable (desired target):
 - y - has the client subscribed a term deposit? (binary: 'yes','no')
+
 ## Models trained on
 1. Logistic Regression
 2. Support Vector Machine
