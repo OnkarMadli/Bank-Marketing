@@ -20,11 +20,11 @@ Template code is provided in the `Bank-Marketing.ipynb` notebook file. You will 
 In a terminal or command window, navigate to the top-level project directory and run one of the following commands:
 
 ```bash
-ipython notebook customer_segments.ipynb
+ipython notebook Bank-Marketing.ipynb
 ```  
 or
 ```bash
-jupyter notebook customer_segments.ipynb
+jupyter notebook Bank-Marketing.ipynb
 ```
 
 This will open the Jupyter Notebook software and project file in your browser.
